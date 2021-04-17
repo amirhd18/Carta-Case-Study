@@ -6,7 +6,7 @@
 
 ##### The exciting part of this industry is despite it growing so fast the adoption in FinTech (within the US and the world) is still relatively low.
 
-![image.png](attachment:8c651973-8ed0-43d8-84f6-4e361b49b2df.png) 
+![image](https://user-images.githubusercontent.com/82072236/115124100-4e627f00-9f75-11eb-9d1a-2a059b79af63.png)
 
 ##### There are several different areas that are being disrupted by this new technology, below shows the most disrupted sectors.
 
