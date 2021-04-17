@@ -40,7 +40,7 @@ Carta was created out of a need to bring and outdated industry up to speed with 
 Carta has had 17 funding rounds with their latest being February 4th, 2021, which was a secondary market round. The total funds raised from all the funding rounds comes out to $627.8 Million.
 
 
-    (Used resource 2 for the questions above)
+   (Used resource 2 for the questions above)
 
 ## Business Activities
 
@@ -62,7 +62,7 @@ Extra competition coming: There is a recent startup (just 14 months old) making 
 When it comes to Carta's technology and services, they use a number of products, just to list a few of them: HTML5, Google Analytics, JQuery, Google Optimize 360, Google Universal Analytics, Google Conversion Tracking, Twitter Analytics, and Facebook Pixel. They use up to 62 different technology products that all feed into their product line. 
 In addition, Carta has registered 6 trademarks that make them unique. The most popular class of their patents is "scientific and electric apparatus and instruments" according to IPqwery.
 
-    (Used resource 3, 4, 5, 6, 7 for the questions above)
+   (Used resource 3, 4, 5, 6, 7 for the questions above)
 
 ## Results
 
