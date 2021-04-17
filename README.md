@@ -42,7 +42,7 @@ Carta has had 17 funding rounds with their latest being February 4th, 2021, whic
 
     (Used resource 2 for the questions above)
 
-## Business Activities:
+## Business Activities
 
 * ##### What specific financial problem is the company or project trying to solve? 
 The problem Carta is fixing is the trouble around managing the equity options and valuations for companies. 
