@@ -10,19 +10,19 @@
 
 ##### There are several different areas that are being disrupted by this new technology, below shows the most disrupted sectors.
 
-![image.png](attachment:60aadc07-5450-4c4d-8876-fcc485a1ff90.png)
+![image](https://user-images.githubusercontent.com/82072236/115124124-718d2e80-9f75-11eb-92fb-4dcb9b15047c.png)
 
 ##### Other major companies in this domain of FinTech are illustrated below, however it also shows which major banks and institutions have invested in those companies. 
 
-![image.png](attachment:3f67ebaa-470e-4e15-944f-b998d3f82a51.png)
+![image](https://user-images.githubusercontent.com/82072236/115124134-794cd300-9f75-11eb-9fb4-04d77c57b2a8.png)
 
-![image.png](attachment:658ba46a-da17-43b0-b979-37ccb4aec1b3.png)
+![image](https://user-images.githubusercontent.com/82072236/115124138-7f42b400-9f75-11eb-8699-a8cbe96280a3.png)
 
 (resource 1) 
 
 ## Overview and Origin
 
-![image.png](attachment:ab893f35-46a0-4be9-ad10-290200fd0da4.png)
+![image](https://user-images.githubusercontent.com/82072236/115124145-92558400-9f75-11eb-904f-752b5570a45a.png)
 
 * ##### Name of the company: 
 Carta  
@@ -47,13 +47,12 @@ Carta has had 17 funding rounds with their latest being February 4th, 2021, whic
 * ##### What specific financial problem is the company or project trying to solve? 
 The problem Carta is fixing is the trouble around managing the equity options and valuations for companies. 
 
-![image.png](attachment:5c41d343-d6a7-46f0-910d-997aecbea4aa.png)
+![image](https://user-images.githubusercontent.com/82072236/115124152-a4cfbd80-9f75-11eb-9914-7d898751c9af.png)
 
 * ##### Who is the company's intended customer? Is there any information about the market size of this set of customers? What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 Carta has set up their company as a SaaS model, where you are able to scale up and grow your features as the company grows. Their intended customer ranges from early startups up to IPO ready companies.
 
-![image.png](attachment:b1d2bb41-b836-429c-838f-1e72fdc15a22.png)
-
+![image](https://user-images.githubusercontent.com/82072236/115124162-adc08f00-9f75-11eb-9a42-938f2e060ef2.png)
 
 When looking up competitors to Carta the names that come up are Captable.io, EquityZen, and E*Trade. Each one focuses on slightly different scales and areas. For example, EquitZen focuses more on giving access to shareholders to sell their equity for cash, even while their company is private. Captable.io resembles Carta model the most. However, one major area that differentiates the two is, Carta uses an in-house team and leverages the cap table data to produce a 409A unlike Captable.io, who outsources their valuations.
 
